@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Rashid+Bilal)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=but+you+can+call+me+X+Neutral)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+have+so+many+names+but;you+can+call+me+X+Neutral)](https://git.io/typing-svg)
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Kotlin
 - ⚡ Fun fact: Meme Reactor
